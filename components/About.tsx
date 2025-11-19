@@ -24,7 +24,7 @@ export default function About() {
                 <div className="absolute inset-0 bg-black/10"></div>
                 <div className="text-center text-white relative z-10">
                   <div className="text-6xl mb-4">👨‍💻</div>
-                  <p className="text-xl font-semibold">Alex Carter</p>
+                  <p className="text-xl font-semibold">Eason Sy</p>
                   <p className="text-blue-100">Multi-Disciplinary Engineer</p>
                 </div>
               </div>
