@@ -76,18 +76,6 @@ export default function About() {
                   </p>
                 </div>
               </div>
-              
-              <div className="flex items-start space-x-4 p-4 rounded-xl hover:bg-gray-50 transition-all duration-300 group">
-                <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
-                  <span className="text-purple-600 text-xl">🔧</span>
-                </div>
-                <div>
-                  <h3 className="text-xl font-semibold text-gray-900">Mechanical Engineering</h3>
-                  <p className="text-gray-600 mt-1">
-                    Applying engineering principles to design and analyze mechanical systems and components.
-                  </p>
-                </div>
-              </div>
             </div>
           </div>
         </div>
