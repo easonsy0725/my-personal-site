@@ -70,7 +70,7 @@ export default function Contact() {
               <h3 className="text-3xl font-bold mb-6">Get In Touch</h3>
               <p className="text-blue-200 text-lg leading-relaxed">
                 Whether you need backend development, audio/lighting engineering expertise, 
-                or mechanical design work, I&apos;m here to help bring your vision to reality.
+                I&apos;m here to help bring your vision to reality.
               </p>
             </div>
             
