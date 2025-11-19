@@ -37,8 +37,8 @@ export default function About() {
             <p className="text-lg text-gray-600 leading-relaxed">
               I&apos;m a passionate multi-disciplinary engineer with expertise spanning across 
               <span className="font-semibold text-blue-600"> backend development</span>, 
-              <span className="font-semibold text-green-600"> live event production</span>, and 
-              <span className="font-semibold text-purple-600"> mechanical engineering</span>. 
+              <span className="font-semibold text-green-600"> audio engineering</span>, and 
+              <span className="font-semibold text-purple-600"> lighting engineering</span>. 
               This unique combination allows me to approach problems from multiple perspectives and create innovative solutions.
             </p>
             
