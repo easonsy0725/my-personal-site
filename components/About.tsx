@@ -1,9 +1,8 @@
 export default function About() {
   const stats = [
-    { number: '50+', label: 'Projects Completed' },
-    { number: '100+', label: 'Events Engineered' },
+    { number: '30+', label: 'Projects Completed' },
+    { number: '20+', label: 'Events Engineered' },
     { number: '3', label: 'Professional Fields' },
-    { number: '∞', label: 'Passion for Learning' },
   ];
 
   return (
